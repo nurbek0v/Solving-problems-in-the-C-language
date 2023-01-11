@@ -1,0 +1,422 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		07007948296E2794007B1AF8 /* course 1 - first programm.c in Sources */ = {isa = PBXBuildFile; fileRef = 07007947296E2794007B1AF8 /* course 1 - first programm.c */; };
+		0700794C296E2818007B1AF8 /* course 2 -  Variables and data types.c in Sources */ = {isa = PBXBuildFile; fileRef = 0700794B296E2818007B1AF8 /* course 2 -  Variables and data types.c */; };
+		07007956296E28E5007B1AF8 /* course3- Data input and output.c in Sources */ = {isa = PBXBuildFile; fileRef = 07007955296E28E5007B1AF8 /* course3- Data input and output.c */; };
+		0700795A296E2971007B1AF8 /* course4- Mathematics in C.c in Sources */ = {isa = PBXBuildFile; fileRef = 07007959296E2971007B1AF8 /* course4- Mathematics in C.c */; };
+		0700795E296E29A7007B1AF8 /* course5 - The first base..c in Sources */ = {isa = PBXBuildFile; fileRef = 0700795D296E29A7007B1AF8 /* course5 - The first base..c */; };
+		07007962296E29DB007B1AF8 /* course 6 - Branching.c in Sources */ = {isa = PBXBuildFile; fileRef = 07007961296E29DB007B1AF8 /* course 6 - Branching.c */; };
+		07007969296E2A49007B1AF8 /* course 7 - Cycles | Loops.c in Sources */ = {isa = PBXBuildFile; fileRef = 07007968296E2A49007B1AF8 /* course 7 - Cycles | Loops.c */; };
+		0700796D296E2A74007B1AF8 /* course 8 - Arrays.c in Sources */ = {isa = PBXBuildFile; fileRef = 0700796C296E2A74007B1AF8 /* course 8 - Arrays.c */; };
+		07007971296E2AA3007B1AF8 /* course 9 - Strings.c in Sources */ = {isa = PBXBuildFile; fileRef = 07007970296E2AA3007B1AF8 /* course 9 - Strings.c */; };
+		07007975296E2AD2007B1AF8 /* course 10 - Functions and pointers.c in Sources */ = {isa = PBXBuildFile; fileRef = 07007974296E2AD2007B1AF8 /* course 10 - Functions and pointers.c */; };
+		07B7143E295253E700F0332C /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = 07B7143D295253E700F0332C /* main.c */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		07B71438295253E700F0332C /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		07007946296E2794007B1AF8 /* course 1 - first programm.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "course 1 - first programm.h"; sourceTree = "<group>"; };
+		07007947296E2794007B1AF8 /* course 1 - first programm.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = "course 1 - first programm.c"; sourceTree = "<group>"; };
+		0700794A296E2818007B1AF8 /* course 2 -  Variables and data types.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "course 2 -  Variables and data types.h"; sourceTree = "<group>"; };
+		0700794B296E2818007B1AF8 /* course 2 -  Variables and data types.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = "course 2 -  Variables and data types.c"; sourceTree = "<group>"; };
+		07007954296E28E5007B1AF8 /* course3- Data input and output.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "course3- Data input and output.h"; sourceTree = "<group>"; };
+		07007955296E28E5007B1AF8 /* course3- Data input and output.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = "course3- Data input and output.c"; sourceTree = "<group>"; };
+		07007958296E2971007B1AF8 /* course4- Mathematics in C.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "course4- Mathematics in C.h"; sourceTree = "<group>"; };
+		07007959296E2971007B1AF8 /* course4- Mathematics in C.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = "course4- Mathematics in C.c"; sourceTree = "<group>"; };
+		0700795C296E29A7007B1AF8 /* course5 - The first base..h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "course5 - The first base..h"; sourceTree = "<group>"; };
+		0700795D296E29A7007B1AF8 /* course5 - The first base..c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = "course5 - The first base..c"; sourceTree = "<group>"; };
+		07007960296E29DB007B1AF8 /* course 6 - Branching.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "course 6 - Branching.h"; sourceTree = "<group>"; };
+		07007961296E29DB007B1AF8 /* course 6 - Branching.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = "course 6 - Branching.c"; sourceTree = "<group>"; };
+		07007967296E2A49007B1AF8 /* course 7 - Cycles | Loops.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "course 7 - Cycles | Loops.h"; sourceTree = "<group>"; };
+		07007968296E2A49007B1AF8 /* course 7 - Cycles | Loops.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = "course 7 - Cycles | Loops.c"; sourceTree = "<group>"; };
+		0700796B296E2A74007B1AF8 /* course 8 - Arrays.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "course 8 - Arrays.h"; sourceTree = "<group>"; };
+		0700796C296E2A74007B1AF8 /* course 8 - Arrays.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = "course 8 - Arrays.c"; sourceTree = "<group>"; };
+		0700796F296E2AA3007B1AF8 /* course 9 - Strings.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "course 9 - Strings.h"; sourceTree = "<group>"; };
+		07007970296E2AA3007B1AF8 /* course 9 - Strings.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = "course 9 - Strings.c"; sourceTree = "<group>"; };
+		07007973296E2AD2007B1AF8 /* course 10 - Functions and pointers.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "course 10 - Functions and pointers.h"; sourceTree = "<group>"; };
+		07007974296E2AD2007B1AF8 /* course 10 - Functions and pointers.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = "course 10 - Functions and pointers.c"; sourceTree = "<group>"; };
+		07B7143A295253E700F0332C /* firstStepsInC */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = firstStepsInC; sourceTree = BUILT_PRODUCTS_DIR; };
+		07B7143D295253E700F0332C /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		07B71437295253E700F0332C /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		07007949296E27D5007B1AF8 /* course 1 */ = {
+			isa = PBXGroup;
+			children = (
+				07007947296E2794007B1AF8 /* course 1 - first programm.c */,
+				07007946296E2794007B1AF8 /* course 1 - first programm.h */,
+			);
+			path = "course 1";
+			sourceTree = "<group>";
+		};
+		0700794D296E2829007B1AF8 /* course 2 */ = {
+			isa = PBXGroup;
+			children = (
+				0700794A296E2818007B1AF8 /* course 2 -  Variables and data types.h */,
+				0700794B296E2818007B1AF8 /* course 2 -  Variables and data types.c */,
+			);
+			path = "course 2";
+			sourceTree = "<group>";
+		};
+		07007957296E290C007B1AF8 /* course 3  */ = {
+			isa = PBXGroup;
+			children = (
+				07007954296E28E5007B1AF8 /* course3- Data input and output.h */,
+				07007955296E28E5007B1AF8 /* course3- Data input and output.c */,
+			);
+			path = "course 3 ";
+			sourceTree = "<group>";
+		};
+		0700795B296E297C007B1AF8 /* course 4 */ = {
+			isa = PBXGroup;
+			children = (
+				07007958296E2971007B1AF8 /* course4- Mathematics in C.h */,
+				07007959296E2971007B1AF8 /* course4- Mathematics in C.c */,
+			);
+			path = "course 4";
+			sourceTree = "<group>";
+		};
+		0700795F296E29B1007B1AF8 /* course 5 */ = {
+			isa = PBXGroup;
+			children = (
+				0700795D296E29A7007B1AF8 /* course5 - The first base..c */,
+				0700795C296E29A7007B1AF8 /* course5 - The first base..h */,
+			);
+			path = "course 5";
+			sourceTree = "<group>";
+		};
+		07007963296E29E7007B1AF8 /* course 6 */ = {
+			isa = PBXGroup;
+			children = (
+				07007960296E29DB007B1AF8 /* course 6 - Branching.h */,
+				07007961296E29DB007B1AF8 /* course 6 - Branching.c */,
+			);
+			path = "course 6";
+			sourceTree = "<group>";
+		};
+		0700796A296E2A54007B1AF8 /* course 7 */ = {
+			isa = PBXGroup;
+			children = (
+				07007968296E2A49007B1AF8 /* course 7 - Cycles | Loops.c */,
+				07007967296E2A49007B1AF8 /* course 7 - Cycles | Loops.h */,
+			);
+			path = "course 7";
+			sourceTree = "<group>";
+		};
+		0700796E296E2A7D007B1AF8 /* course 8  */ = {
+			isa = PBXGroup;
+			children = (
+				0700796C296E2A74007B1AF8 /* course 8 - Arrays.c */,
+				0700796B296E2A74007B1AF8 /* course 8 - Arrays.h */,
+			);
+			path = "course 8 ";
+			sourceTree = "<group>";
+		};
+		07007972296E2AAD007B1AF8 /* course 9 */ = {
+			isa = PBXGroup;
+			children = (
+				07007970296E2AA3007B1AF8 /* course 9 - Strings.c */,
+				0700796F296E2AA3007B1AF8 /* course 9 - Strings.h */,
+			);
+			path = "course 9";
+			sourceTree = "<group>";
+		};
+		07007976296E2ADC007B1AF8 /* course 10 */ = {
+			isa = PBXGroup;
+			children = (
+				07007974296E2AD2007B1AF8 /* course 10 - Functions and pointers.c */,
+				07007973296E2AD2007B1AF8 /* course 10 - Functions and pointers.h */,
+			);
+			path = "course 10";
+			sourceTree = "<group>";
+		};
+		07B71431295253E700F0332C = {
+			isa = PBXGroup;
+			children = (
+				07B7143C295253E700F0332C /* firstStepsInC */,
+				07B7143B295253E700F0332C /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		07B7143B295253E700F0332C /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				07B7143A295253E700F0332C /* firstStepsInC */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		07B7143C295253E700F0332C /* firstStepsInC */ = {
+			isa = PBXGroup;
+			children = (
+				07B7143D295253E700F0332C /* main.c */,
+				07007949296E27D5007B1AF8 /* course 1 */,
+				0700794D296E2829007B1AF8 /* course 2 */,
+				07007957296E290C007B1AF8 /* course 3  */,
+				0700795B296E297C007B1AF8 /* course 4 */,
+				0700795F296E29B1007B1AF8 /* course 5 */,
+				07007963296E29E7007B1AF8 /* course 6 */,
+				0700796A296E2A54007B1AF8 /* course 7 */,
+				0700796E296E2A7D007B1AF8 /* course 8  */,
+				07007972296E2AAD007B1AF8 /* course 9 */,
+				07007976296E2ADC007B1AF8 /* course 10 */,
+			);
+			path = firstStepsInC;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		07B71439295253E700F0332C /* firstStepsInC */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 07B71441295253E700F0332C /* Build configuration list for PBXNativeTarget "firstStepsInC" */;
+			buildPhases = (
+				07B71436295253E700F0332C /* Sources */,
+				07B71437295253E700F0332C /* Frameworks */,
+				07B71438295253E700F0332C /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = firstStepsInC;
+			productName = firstStepsInC;
+			productReference = 07B7143A295253E700F0332C /* firstStepsInC */;
+			productType = "com.apple.product-type.tool";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		07B71432295253E700F0332C /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastUpgradeCheck = 1400;
+				TargetAttributes = {
+					07B71439295253E700F0332C = {
+						CreatedOnToolsVersion = 14.0.1;
+					};
+				};
+			};
+			buildConfigurationList = 07B71435295253E700F0332C /* Build configuration list for PBXProject "firstStepsInC" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 07B71431295253E700F0332C;
+			productRefGroup = 07B7143B295253E700F0332C /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				07B71439295253E700F0332C /* firstStepsInC */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXSourcesBuildPhase section */
+		07B71436295253E700F0332C /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				0700796D296E2A74007B1AF8 /* course 8 - Arrays.c in Sources */,
+				07007956296E28E5007B1AF8 /* course3- Data input and output.c in Sources */,
+				07007962296E29DB007B1AF8 /* course 6 - Branching.c in Sources */,
+				07007948296E2794007B1AF8 /* course 1 - first programm.c in Sources */,
+				0700794C296E2818007B1AF8 /* course 2 -  Variables and data types.c in Sources */,
+				0700795A296E2971007B1AF8 /* course4- Mathematics in C.c in Sources */,
+				07007975296E2AD2007B1AF8 /* course 10 - Functions and pointers.c in Sources */,
+				07007971296E2AA3007B1AF8 /* course 9 - Strings.c in Sources */,
+				07007969296E2A49007B1AF8 /* course 7 - Cycles | Loops.c in Sources */,
+				07B7143E295253E700F0332C /* main.c in Sources */,
+				0700795E296E29A7007B1AF8 /* course5 - The first base..c in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		07B7143F295253E700F0332C /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 12.3;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+			};
+			name = Debug;
+		};
+		07B71440295253E700F0332C /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 12.3;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = macosx;
+			};
+			name = Release;
+		};
+		07B71442295253E700F0332C /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = QV37CC32ZJ;
+				ENABLE_HARDENED_RUNTIME = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		07B71443295253E700F0332C /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = QV37CC32ZJ;
+				ENABLE_HARDENED_RUNTIME = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		07B71435295253E700F0332C /* Build configuration list for PBXProject "firstStepsInC" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				07B7143F295253E700F0332C /* Debug */,
+				07B71440295253E700F0332C /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		07B71441295253E700F0332C /* Build configuration list for PBXNativeTarget "firstStepsInC" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				07B71442295253E700F0332C /* Debug */,
+				07B71443295253E700F0332C /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 07B71432295253E700F0332C /* Project object */;
+}
